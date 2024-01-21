@@ -8,5 +8,4 @@ const NewsList = () => {
     </div>
   )
 }
-
 export default NewsList
